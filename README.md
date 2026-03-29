@@ -124,7 +124,7 @@
         </a>
       </p>
     </td>
-
+<tr>
     <td width="50%">
       <h3 align="center"><strong>🔥 Top Contributions</strong></h3>
       <p align="center">
