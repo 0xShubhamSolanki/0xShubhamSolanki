@@ -8,14 +8,6 @@
 
 ---
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/0xShubhamSolanki/0xShubhamSolanki/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🔭 Working on **Microservices architecture & Event-driven systems**
