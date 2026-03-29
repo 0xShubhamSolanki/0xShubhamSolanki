@@ -70,18 +70,8 @@
 ## 🌍 Open Source Contributions
 
 - 🔀 PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki  
-- 🐛 Issues: https://github.com/issues?q=is%3Aissue+author%3A0xShubhamSolanki  
 
 ---
-
-## 🔥 Recent Merged PRs
-
-<!--START_SECTION:merged_prs-->
-Loading...
-<!--END_SECTION:merged_prs-->
-
----
-
 
 ## ⚡ Fun Fact
 
