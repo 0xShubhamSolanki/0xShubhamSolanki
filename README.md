@@ -61,6 +61,12 @@
 
 ## 📊 Contribution Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSolanki&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xShubhamSolanki&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSolanki&theme=tokyo-night" />
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night&hide_border=true" />
+
+## 🟢 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/0xShubhamSolanki" />
