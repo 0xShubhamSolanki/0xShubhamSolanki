@@ -93,6 +93,51 @@
 - Passionate about **scalable backend systems & clean architecture**
 
 ---
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>🔥 Overall Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0xShubhamSolanki">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xShubhamSolanki&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,0d1117&title_color=58a6ff&text_color=ffffff&rank_icon=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>🔥 Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0xShubhamSolanki">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xShubhamSolanki&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>🚀 Featured Project</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0xShubhamSolanki">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=0xShubhamSolanki&repo=readme.md&theme=tokyonight&bg_color=0,000000,0d1117&title_color=58a6ff&text_color=ffffff" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center"><strong>🔥 Top Contributions</strong></h3>
+      <p align="center">
+        <a href="https://github.com/0xShubhamSolanki">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=0xShubhamSolanki&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+---
 
 ## 📊 GitHub Stats
 
