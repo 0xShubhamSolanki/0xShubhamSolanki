@@ -32,6 +32,8 @@ jobs:
           }
           /<!--END_SECTION:merged_prs-->/ {
             skip=0;
+            print;
+            next;
           }
           !skip
           ' README.md > temp.md && mv temp.md README.md
