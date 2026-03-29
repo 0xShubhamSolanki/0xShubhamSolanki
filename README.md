@@ -115,15 +115,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>🚀 Featured Project</strong></h3>
-      <p align="center">
-        <a href="https://github.com/0xShubhamSolanki">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=0xShubhamSolanki&repo=readme.md&theme=tokyonight&bg_color=0,000000,0d1117&title_color=58a6ff&text_color=ffffff" />
-        </a>
-      </p>
-    </td>
 <tr>
     <td width="50%">
       <h3 align="center"><strong>🔥 Top Contributions</strong></h3>
