@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
-<h3 align="center">🚀 Backend Engineer | Microservices, Distributed Systems & JVM Internals</h3>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+%7C+Distributed+Systems;JVM+Internals+%7C+System+Design;Open+Source+Contributor" />
+  </a>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xShubhamSolanki&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,11 +12,10 @@
 
 ---
 
+## 🐍 Contribution Snake
 
 <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/0xShubhamSolanki/0xShubhamSolanki/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -59,12 +63,12 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
 ## 🌍 Open Source Contributions
 
-🔎 Explore my contributions:
-
-- 🔀 PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki
-- 🐛 Issues: https://github.com/issues?q=is%3Aissue+author%3A0xShubhamSolanki
+- 🔀 PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki  
+- 🐛 Issues: https://github.com/issues?q=is%3Aissue+author%3A0xShubhamSolanki  
 
 ---
 
