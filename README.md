@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
 <h3 align="center">🚀 Backend Engineer | Microservices, Distributed Systems & JVM Internals</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xShubhamSolanki&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xShubhamSolanki/0xShubhamSolanki/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xShubhamSolanki/0xShubhamSolanki/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/0xShubhamSolanki/0xShubhamSolanki/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  </picture>
 </p>
 
 ---
@@ -48,6 +49,7 @@ Loading...
 
 - Strong believer in **debugging > assumptions**
 - Focus on **production-ready systems**
+- Passionate about **scalable backend systems & clean architecture**
 
 ---
 
@@ -62,10 +64,14 @@ Loading...
 
 ## 📊 Contribution Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xShubhamSolanki&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xShubhamSolanki&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShubhamSolanki&theme=tokyo-night&hide_border=true" />
+</p>
