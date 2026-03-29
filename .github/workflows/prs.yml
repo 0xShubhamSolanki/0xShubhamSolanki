@@ -2,7 +2,7 @@ name: Update Merged PRs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # har 6 ghante
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,21 +10,36 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Fetch merged PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -s "https://api.github.com/search/issues?q=is:pr+is:merged+author:0xShubhamSolanki&sort=updated&order=desc&per_page=5" \
-          | jq -r '.items[] | "- 🔀 [\(.title)](\(.html_url))"' > prs.txt
+          curl -s -H "Authorization: Bearer $GH_TOKEN" \
+          "https://api.github.com/search/issues?q=is:pr+is:merged+author:0xShubhamSolanki&sort=updated&order=desc&per_page=5" \
+          | jq -r '.items[] | "- 🔀 [\(.title)](\(.html_url)) in **\(.repository_url | split("/")[-1])** (\(.closed_at | split("T")[0]))"' > prs.txt
 
-      - name: Inject into README
+      - name: Update README (replace section)
         run: |
-          awk '/<!--START_SECTION:merged_prs-->/{print;system("cat prs.txt");next}1' README.md > temp && mv temp README.md
+          awk '
+          /<!--START_SECTION:merged_prs-->/ {
+            print;
+            system("cat prs.txt");
+            skip=1;
+            next;
+          }
+          /<!--END_SECTION:merged_prs-->/ {
+            skip=0;
+          }
+          !skip
+          ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated merged PRs" || echo "No changes"
+          git commit -m "🔄 Auto-update merged PRs" || echo "No changes"
           git push
