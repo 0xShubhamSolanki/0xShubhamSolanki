@@ -68,8 +68,11 @@
 
 ## 🌍 Open Source Contributions
 
-<!--START_SECTION:merged_prs-->
-*Recent merged PRs will appear here...*
+<!--START_SECTION:merged_prs-->- 🔀 [feat: implement Trace and Finalize for common std types #3239](https://github.com/boa-dev/boa/pull/4895) in **boa-dev**
+- 🔀 [Add @Symbol("publishTap") to TapPublisher Descriptor and pipeline test](https://github.com/jenkinsci/tap-plugin/pull/44) in **jenkinsci**
+- 🔀 [Migrate documentation from Wiki to GitHub](https://github.com/jenkinsci/JDK_Parameter_Plugin-plugin/pull/57) in **jenkinsci**
+- 🔀 [docs: Fix broken documentation link in README.md (#783)](https://github.com/openfoodfacts/openfoodfacts-web/pull/805) in **openfoodfacts**
+- 🔀 [Fix #3590: Prevent regular contributors from being listed as managers](https://github.com/mozilla/pontoon/pull/3608) in **mozilla**
 <!--END_SECTION:merged_prs-->
 
 ---
