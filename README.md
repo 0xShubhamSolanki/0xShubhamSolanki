@@ -68,7 +68,7 @@
 
 ## 🌍 Open Source Contributions
 
-- 🔀 PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki  
+- 🔀 PRs: https://github.com/search?q=author%3AShubhamSolanki+is%3Apr
 
 ---
 
