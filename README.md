@@ -68,7 +68,9 @@
 
 ## 🌍 Open Source Contributions
 
-- 🔀 PRs: https://github.com/search?q=author%3AShubhamSolanki+is%3Apr
+<!--START_SECTION:merged_prs-->
+*Recent merged PRs will appear here...*
+<!--END_SECTION:merged_prs-->
 
 ---
 
