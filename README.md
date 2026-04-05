@@ -68,13 +68,7 @@
 
 ## 🌍 Open Source Contributions
 
-### 📋 Recent Pull Requests (Open + Closed + Merged)
-
-&lt;!--START_SECTION:prs--&gt;
-*Loading recent PRs...*
-&lt;!--END_SECTION:prs--&gt;
-
-&lt;em&gt;🟢 Open | 🟣 Merged | 🔴 Closed&lt;/em&gt;
+# 📋 Recent Pull Requests (Open + Closed + Merged) : PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki
 
 ## ⚡ Fun Fact
 
