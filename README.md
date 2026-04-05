@@ -68,7 +68,7 @@
 
 ## 🌍 Open Source Contributions
 
-## https://github.com/search?q=author%3A0xShubhamSolanki+is%3Apr&type=pullrequests
+* 🔀 **PRs:** https://github.com/search?q=author%3A0xShubhamSolanki+is%3Apr&type=pullrequests
 
 ## ⚡ Fun Fact
 
