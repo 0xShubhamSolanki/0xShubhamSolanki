@@ -68,7 +68,7 @@
 
 ## 🌍 Open Source Contributions
 
-# PRs: https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki
+[![PRs](https://img.shields.io/badge/View%20My%20PRs-blue?style=flat&logo=github)](https://github.com/pulls?q=is%3Apr+author%3A0xShubhamSolanki)
 
 ## ⚡ Fun Fact
 
