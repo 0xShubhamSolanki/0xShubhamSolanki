@@ -1,0 +1,58 @@
+name: Update Merged PRs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Merged PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Sahi username ke saath API call
+          curl -s -H "Authorization: Bearer $GH_TOKEN" \
+          "https://api.github.com/search/issues?q=is:pr+is:merged+author:0xShubhamSolanki&sort=updated&order=desc&per_page=5" > prs.json
+          
+          # Check karo ki results aaye ki nahi
+          TOTAL=$(jq -r '.total_count // 0' prs.json)
+          echo "Total merged PRs found: $TOTAL"
+          
+          if [ "$TOTAL" = "0" ]; then
+            echo "- 😕 No recent merged PRs found" > prs_list.txt
+          else
+            jq -r '.items[] | "- 🔀 [\(.title)](\(.html_url)) in [\(.repository_url | split("/")[-2:-1] | join("/"))](\(.repository_url | gsub("api.github.com/repos"; "github.com")))"' prs.json > prs_list.txt
+          fi
+
+      - name: Update README
+        run: |
+          START_MARKER="<!--START_SECTION:merged_prs-->"
+          END_MARKER="<!--END_SECTION:merged_prs-->"
+          
+          # Get line numbers
+          START_LINE=$(grep -n "$START_MARKER" README.md | tail -1 | cut -d: -f1)
+          END_LINE=$(grep -n "$END_MARKER" README.md | head -1 | cut -d: -f1)
+          
+          # Rebuild README
+          head -n "$START_LINE" README.md > new_readme.md
+          echo "" >> new_readme.md
+          cat prs_list.txt >> new_readme.md
+          echo "" >> new_readme.md
+          tail -n +"$END_LINE" README.md >> new_readme.md
+          
+          mv new_readme.md README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Updated merged PRs list" && git push || echo "No changes to push"
