@@ -21,10 +21,7 @@
 ## 🔗 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/0xshubhamsolanki" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/shubham0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/0xshubhamsolanki" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/shubham0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/0xshubhamsolanki"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>&emsp;&emsp;<a href="https://codeforces.com/profile/shubham0x"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>&emsp;&emsp;<a href="https://www.leetcode.com/0xshubhamsolanki"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>&emsp;&emsp;<a href="https://auth.geeksforgeeks.org/user/shubham0x"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
 </p>
 
 ## 🛠️ Tech Stack
