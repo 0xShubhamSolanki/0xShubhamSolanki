@@ -23,7 +23,7 @@
 <p align="top">
   <a href="https://linkedin.com/in/0xshubhamsolanki"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   </p>
-  <p align="top">
+  <p align="left">
   <a href="https://codeforces.com/profile/shubham0x"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
   </p>
   <p align="top">
