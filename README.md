@@ -10,13 +10,14 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on **Microservices architecture & Event-driven systems**
-- 🌱 Exploring **System Design, Cloud Native, JVM Internals (Garbage Collection), Rust Internals & Distributed Systems**
-- 👯 Looking to collaborate on **Java backend, Microservices & Open Source**
-- 🤝 Open to guidance in **System Design & Distributed Systems**
-- 👨‍💻 Projects: https://github.com/0xShubhamSolanki
-- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, AWS, CI/CD, Docker, JVM Internals, Production Debugging**
-- 📫 Email: **shubhamsolanki0x@gmail.com**
+-🔭 Building scalable microservices and event-driven systems using Java, Spring Boot, and Kafka
+-🌱 Exploring System Design, Cloud-Native architectures, JVM internals (Garbage Collection), and Distributed Systems
+-🚀 Contributing to open-source projects — working on Garbage Collector concepts (BOA) and Function Mesh (Metacall)
+-👯 Open to collaborating on Java backend, microservices, and open-source projects
+-🤝 Actively learning and seeking guidance in system design and distributed systems
+-👨‍💻 Projects: https://github.com/0xShubhamSolanki
+-💬 Ask me about Java, Spring Boot, Microservices, Kafka, AWS, CI/CD, Docker, JVM internals, and production debugging
+-📫 Email: shubhamsolanki0x@gmail.com
 
 ## 🔗 Connect with me
 
